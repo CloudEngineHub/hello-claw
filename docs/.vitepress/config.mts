@@ -58,7 +58,7 @@ export default defineConfig({
               items: [
                 { text: '写在开头', link: '/cn/adopt/intro' },
                 {
-                  text: '🔵 安装',
+                  text: '📦 安装',
                   collapsed: false,
                   items: [
                     { text: '第1章 AutoClaw 一键安装', link: '/cn/adopt/chapter1' },
@@ -67,7 +67,7 @@ export default defineConfig({
                   ]
                 },
                 {
-                  text: '🟢 核心配置',
+                  text: '⚙️ 核心配置',
                   collapsed: false,
                   items: [
                     { text: '第4章 聊天平台接入', link: '/cn/adopt/chapter4' },
@@ -76,7 +76,7 @@ export default defineConfig({
                   ]
                 },
                 {
-                  text: '🟡 扩展运维',
+                  text: '🔌 扩展运维',
                   collapsed: false,
                   items: [
                     { text: '第7章 工具与定时任务', link: '/cn/adopt/chapter7' },
@@ -85,7 +85,7 @@ export default defineConfig({
                   ]
                 },
                 {
-                  text: '🔴 安全与客户端',
+                  text: '🛡️ 安全与客户端',
                   collapsed: false,
                   items: [
                     { text: '第10章 安全防护与威胁模型', link: '/cn/adopt/chapter10' },
@@ -113,7 +113,7 @@ export default defineConfig({
               items: [
                 { text: '写在开头', link: '/cn/adopt/intro' },
                 {
-                  text: '🔵 安装',
+                  text: '📦 安装',
                   collapsed: false,
                   items: [
                     { text: '第1章 AutoClaw 一键安装', link: '/cn/adopt/chapter1' },
@@ -122,7 +122,7 @@ export default defineConfig({
                   ]
                 },
                 {
-                  text: '🟢 核心配置',
+                  text: '⚙️ 核心配置',
                   collapsed: false,
                   items: [
                     { text: '第4章 聊天平台接入', link: '/cn/adopt/chapter4' },
@@ -131,7 +131,7 @@ export default defineConfig({
                   ]
                 },
                 {
-                  text: '🟡 扩展运维',
+                  text: '🔌 扩展运维',
                   collapsed: false,
                   items: [
                     { text: '第7章 工具与定时任务', link: '/cn/adopt/chapter7' },
@@ -140,7 +140,7 @@ export default defineConfig({
                   ]
                 },
                 {
-                  text: '🔴 安全与客户端',
+                  text: '🛡️ 安全与客户端',
                   collapsed: false,
                   items: [
                     { text: '第10章 安全防护与威胁模型', link: '/cn/adopt/chapter10' },
@@ -168,7 +168,7 @@ export default defineConfig({
               items: [
                 { text: '写在开头', link: '/cn/build/' },
                 {
-                  text: '🔵 OpenClaw 内部拆解',
+                  text: '🏗️ OpenClaw 内部拆解',
                   collapsed: false,
                   items: [
                     { text: '第1章 架构设计哲学', link: '/cn/build/chapter1' },
@@ -181,7 +181,7 @@ export default defineConfig({
                   ]
                 },
                 {
-                  text: '🟢 定制方案',
+                  text: '🔧 定制方案',
                   collapsed: false,
                   items: [
                     { text: '第8章 轻量化方案', link: '/cn/build/chapter8' },
