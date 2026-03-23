@@ -196,8 +196,7 @@ export default defineConfig({
             {
               text: '龙虾大学',
               items: [
-                { text: '写在开头', link: '/cn/university/intro' },
-                { text: 'Skills 选修指南', link: '/cn/university/' },
+                { text: '写在开头与选修指南', link: '/cn/university/intro.html' },
                 { text: '邮箱助手实战（163）', link: '/cn/university/email-assistant/' },
                 { text: '多智能体协作（HiClaw）', link: '/cn/university/multi-claw-hiclaw/' },
                 { text: '安全防护清单', link: '/cn/university/security/' },

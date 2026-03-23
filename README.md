@@ -129,7 +129,7 @@ https://datawhalechina.github.io/hello-claw
 
 | 文章                                                                                    | 简介                                                         | 状态 |
 | --------------------------------------------------------------------------------------- | ------------------------------------------------------------ | ---- |
-| [龙虾大学首页（Skills 选修指南）](./docs/cn/university/index.md)                           | ClawHub 与 SkillHub 双入口、技能分类地图、选课原则与推荐课表 | ✅   |
+| [龙虾大学：写在开头与 Skills 选修指南](./docs/cn/university/intro.md)                      | ClawHub 与 SkillHub 双入口、技能分类地图、选课原则与推荐课表 | ✅   |
 | [Vibe Coding 实战](./docs/cn/university/vibe-coding/index.md)                              | 飞书对话驱动需求到 PR，全流程“对话即开发”闭环              | ✅   |
 | [邮箱助手实战（163）](./docs/cn/university/email-assistant/index.md)                       | 从 IMAP/SMTP 配置到脚本验证与 cron 定时，跑通邮件自动化      | ✅   |
 | [多智能体协作（Multi OpenClaw / HiClaw）](./docs/cn/university/multi-claw-hiclaw/index.md) | 从单 Worker 瓶颈到多智能体协作，落地可追踪的任务编排         | ✅   |

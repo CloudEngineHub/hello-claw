@@ -428,7 +428,7 @@
         <div class="flex justify-center gap-6 text-[#ff4d4d] text-sm mb-8">
           <a :href="withBase('/cn/adopt/intro')" class="hover:text-[#ff6b6b] transition-colors">领养龙虾</a>
           <span class="text-gray-600">•</span>
-          <a :href="withBase('/cn/university/')" class="hover:text-[#ff6b6b] transition-colors">🎓 龙虾大学</a>
+          <a :href="withBase('/cn/university/intro.html')" class="hover:text-[#ff6b6b] transition-colors">🎓 龙虾大学</a>
           <span class="text-gray-600">•</span>
           <a :href="withBase('/cn/build/')" class="hover:text-[#ff6b6b] transition-colors">构建龙虾</a>
           <span class="text-gray-600">•</span>
