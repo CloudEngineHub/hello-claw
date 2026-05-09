@@ -57,6 +57,7 @@ next:
 |------|------|------|
 | ⭐ OpenClaw 中文社区 | <https://clawd.org.cn> | 国内用户交流、经验分享、问题互助的中文社区门户 |
 | Claw123 资源导航 | <https://www.claw123.com> | OpenClaw 中文资源导航站，汇聚教程、工具与社区入口 |
+| P2PClaw | <https://www.p2pclaw.com> | OpenClaw 中文社区资源与导航站点 |
 | Awesome OpenClaw Asia | <https://awesome.tryopenclaw.asia> | 亚洲社区维护的 OpenClaw 优质资源汇总 |
 
 ### 2.2 中文教程与文档
