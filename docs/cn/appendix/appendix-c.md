@@ -207,13 +207,12 @@ OpenClaw 的爆发催生了一个庞大的"龙虾生态"——从开源框架到
 | **nanobot** | Python | 港科大 HKUDS 出品，代码量仅 OpenClaw 1%，研究友好，pip 一键安装，支持 10+ IM 渠道 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) |
 | **ClawWork** | Python | 港科大 HKUDS 出品，AI Coworker 经济基准测试：220 GDPVal 任务、44 职业、$10 起步生存挑战，基于 nanobot | [HKUDS/ClawWork](https://github.com/HKUDS/ClawWork) |
 | **WildClawBench** | Python | 上海 AI 实验室 InternLM 出品，真实用户对话驱动的 Agent 能力基准测试，覆盖多轮工具调用与复杂任务评估 | [InternLM/WildClawBench](https://github.com/InternLM/WildClawBench) |
+| **P2PClaw Benchmark** | Web | 在线 Agent benchmark 入口，可直接体验 P2PClaw 的评测页面 | [官网](https://www.p2pclaw.com/app/benchmark) |
 | **MetaClaw** | Python | 在线 RL 进化层，Agent 从交互中自学习、自进化，无需 GPU，一键注入 OpenClaw | [aiming-lab/MetaClaw](https://github.com/aiming-lab/MetaClaw) |
 | **AutoResearchClaw** | Python | aiming-lab 出品，自动化科研工作流：文献检索、实验设计、数据分析、论文撰写，端到端 AI 科研助手 | [aiming-lab/AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) |
 | **MiniClaw** | TypeScript | 极简 OpenClaw 替代，直接用 Claude Pro/ChatGPT Plus 订阅跑 Telegram，零 API 成本 | [htlin222/mini-claw](https://github.com/htlin222/mini-claw) |
 | **ChatClaw** | Go | 智麻出品，30MB 安装包一分钟装好，内置技能市场 + 知识库 + 记忆 + MCP + 定时任务，覆盖 WhatsApp/Telegram/Slack/Discord/Gmail/钉钉/企微/QQ/飞书 | [zhimaAi/ChatClaw](https://github.com/zhimaAi/ChatClaw) |
 | **ClawShield** | TS/Rust | AI Agent 治理层：Model-as-a-Judge 审计高危操作 + 实时推理链监控 + OHTTP 隐私路由 | [xinxin7/claw-shield](https://github.com/xinxin7/claw-shield) |
-
-补充在线评测入口：[P2PClaw Benchmark](https://www.p2pclaw.com/app/benchmark)
 
 ### 7.3 开源方案综合对比
 
