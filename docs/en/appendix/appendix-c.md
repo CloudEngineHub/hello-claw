@@ -194,8 +194,8 @@ The following solutions are for technical users who want full control. If you ar
 
 The following projects each have a distinct focus — minimalist design, security customization, multi-agent collaboration, or local model support — suitable for learning, customization, or specific scenarios.
 
-| Project | Language | Positioning | GitHub |
-|---------|----------|-------------|--------|
+| Project | Language | Positioning | Link |
+|---------|----------|-------------|------|
 | **NanoClaw** | TypeScript | Container sandbox isolation, minimalist design, easy to understand and extend | [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) |
 | **ZeroClaw** | Rust | Trait-driven, zero-overhead architecture, fully replaceable core, cross-environment deployment | [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) |
 | **TinyClaw** | Shell/TS | Multi-agent multi-team, chained execution + fan-out, isolated workspaces | [TinyAGI/tinyclaw](https://github.com/TinyAGI/tinyclaw) |
@@ -207,6 +207,7 @@ The following projects each have a distinct focus — minimalist design, securit
 | **nanobot** | Python | Made by HKUST HKUDS, only 1% the code size of OpenClaw, research-friendly, one-command pip install, supports 10+ IM channels | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) |
 | **ClawWork** | Python | Made by HKUST HKUDS, AI Coworker economic benchmark: 220 GDPVal tasks, 44 professions, $10 survival challenge, based on nanobot | [HKUDS/ClawWork](https://github.com/HKUDS/ClawWork) |
 | **WildClawBench** | Python | Made by Shanghai AI Lab InternLM, real user conversation-driven Agent capability benchmark, covering multi-turn tool calling and complex task evaluation | [InternLM/WildClawBench](https://github.com/InternLM/WildClawBench) |
+| **P2PClaw Benchmark** | Web | Online agent benchmark entry for directly trying the P2PClaw evaluation page | [Website](https://www.p2pclaw.com/app/benchmark) |
 | **MetaClaw** | Python | Online RL evolution layer, Agent self-learns and self-evolves from interactions, no GPU needed, one-click injection into OpenClaw | [aiming-lab/MetaClaw](https://github.com/aiming-lab/MetaClaw) |
 | **AutoResearchClaw** | Python | Made by aiming-lab, automated research workflow: literature search, experiment design, data analysis, paper writing, end-to-end AI research assistant | [aiming-lab/AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) |
 | **MiniClaw** | TypeScript | Minimalist OpenClaw alternative, run on Telegram directly using Claude Pro/ChatGPT Plus subscriptions, zero API cost | [htlin222/mini-claw](https://github.com/htlin222/mini-claw) |
