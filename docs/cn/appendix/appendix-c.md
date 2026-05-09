@@ -213,7 +213,7 @@ OpenClaw 的爆发催生了一个庞大的"龙虾生态"——从开源框架到
 | **ChatClaw** | Go | 智麻出品，30MB 安装包一分钟装好，内置技能市场 + 知识库 + 记忆 + MCP + 定时任务，覆盖 WhatsApp/Telegram/Slack/Discord/Gmail/钉钉/企微/QQ/飞书 | [zhimaAi/ChatClaw](https://github.com/zhimaAi/ChatClaw) |
 | **ClawShield** | TS/Rust | AI Agent 治理层：Model-as-a-Judge 审计高危操作 + 实时推理链监控 + OHTTP 隐私路由 | [xinxin7/claw-shield](https://github.com/xinxin7/claw-shield) |
 
-- 在线基准测试入口：[P2PClaw Benchmark](https://www.p2pclaw.com/app/benchmark)
+补充在线评测入口：[P2PClaw Benchmark](https://www.p2pclaw.com/app/benchmark)
 
 ### 7.3 开源方案综合对比
 

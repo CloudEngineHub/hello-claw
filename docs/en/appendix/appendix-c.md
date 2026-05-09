@@ -213,7 +213,7 @@ The following projects each have a distinct focus — minimalist design, securit
 | **ChatClaw** | Go | Made by Zhima AI, 30MB package installs in one minute, built-in skill marketplace + knowledge base + memory + MCP + scheduled tasks, covers WhatsApp/Telegram/Slack/Discord/Gmail/DingTalk/WeCom/QQ/Feishu | [zhimaAi/ChatClaw](https://github.com/zhimaAi/ChatClaw) |
 | **ClawShield** | TS/Rust | AI Agent governance layer: Model-as-a-Judge for high-risk action auditing + real-time Chain-of-Thought monitoring + OHTTP privacy-preserving routing | [xinxin7/claw-shield](https://github.com/xinxin7/claw-shield) |
 
-- Online benchmark entry: [P2PClaw Benchmark](https://www.p2pclaw.com/app/benchmark)
+Additional online benchmark entry: [P2PClaw Benchmark](https://www.p2pclaw.com/app/benchmark)
 
 ### 7.3 Open-Source Solutions Comprehensive Comparison
 
