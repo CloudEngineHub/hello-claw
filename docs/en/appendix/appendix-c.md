@@ -194,8 +194,8 @@ The following solutions are for technical users who want full control. If you ar
 
 The following projects each have a distinct focus — minimalist design, security customization, multi-agent collaboration, or local model support — suitable for learning, customization, or specific scenarios.
 
-| Project | Language | Positioning | GitHub |
-|---------|----------|-------------|--------|
+| Project | Language | Positioning | Link |
+|---------|----------|-------------|------|
 | **NanoClaw** | TypeScript | Container sandbox isolation, minimalist design, easy to understand and extend | [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) |
 | **ZeroClaw** | Rust | Trait-driven, zero-overhead architecture, fully replaceable core, cross-environment deployment | [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) |
 | **TinyClaw** | Shell/TS | Multi-agent multi-team, chained execution + fan-out, isolated workspaces | [TinyAGI/tinyclaw](https://github.com/TinyAGI/tinyclaw) |

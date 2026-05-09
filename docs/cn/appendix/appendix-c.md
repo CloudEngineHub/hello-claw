@@ -194,8 +194,8 @@ OpenClaw 的爆发催生了一个庞大的"龙虾生态"——从开源框架到
 
 以下项目各有侧重——极简设计、安全定制、多智能体协作或本地模型支持，适合学习、定制或特定场景。
 
-| 项目 | 语言 | 定位 | GitHub |
-|------|------|------|--------|
+| 项目 | 语言 | 定位 | 链接 |
+|------|------|------|------|
 | **NanoClaw** | TypeScript | 容器沙盒隔离，极简设计，易于理解和扩展 | [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) |
 | **ZeroClaw** | Rust | Trait 驱动、零开销架构，全可替换核心，跨环境部署 | [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) |
 | **TinyClaw** | Shell/TS | 多智能体多团队，链式执行 + 扇出，隔离工作区 | [TinyAGI/tinyclaw](https://github.com/TinyAGI/tinyclaw) |
@@ -207,6 +207,7 @@ OpenClaw 的爆发催生了一个庞大的"龙虾生态"——从开源框架到
 | **nanobot** | Python | 港科大 HKUDS 出品，代码量仅 OpenClaw 1%，研究友好，pip 一键安装，支持 10+ IM 渠道 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) |
 | **ClawWork** | Python | 港科大 HKUDS 出品，AI Coworker 经济基准测试：220 GDPVal 任务、44 职业、$10 起步生存挑战，基于 nanobot | [HKUDS/ClawWork](https://github.com/HKUDS/ClawWork) |
 | **WildClawBench** | Python | 上海 AI 实验室 InternLM 出品，真实用户对话驱动的 Agent 能力基准测试，覆盖多轮工具调用与复杂任务评估 | [InternLM/WildClawBench](https://github.com/InternLM/WildClawBench) |
+| **P2PClaw Benchmark** | Web | 在线 Agent benchmark 入口，可直接体验 P2PClaw 的评测页面 | [官网](https://www.p2pclaw.com/app/benchmark) |
 | **MetaClaw** | Python | 在线 RL 进化层，Agent 从交互中自学习、自进化，无需 GPU，一键注入 OpenClaw | [aiming-lab/MetaClaw](https://github.com/aiming-lab/MetaClaw) |
 | **AutoResearchClaw** | Python | aiming-lab 出品，自动化科研工作流：文献检索、实验设计、数据分析、论文撰写，端到端 AI 科研助手 | [aiming-lab/AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) |
 | **MiniClaw** | TypeScript | 极简 OpenClaw 替代，直接用 Claude Pro/ChatGPT Plus 订阅跑 Telegram，零 API 成本 | [htlin222/mini-claw](https://github.com/htlin222/mini-claw) |
