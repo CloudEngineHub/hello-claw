@@ -196,23 +196,24 @@ The following projects each have a distinct focus — minimalist design, securit
 
 | Project | Language | Positioning | Link |
 |---------|----------|-------------|------|
-| **NanoClaw** | TypeScript | Container sandbox isolation, minimalist design, easy to understand and extend | [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) |
-| **ZeroClaw** | Rust | Trait-driven, zero-overhead architecture, fully replaceable core, cross-environment deployment | [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) |
-| **TinyClaw** | Shell/TS | Multi-agent multi-team, chained execution + fan-out, isolated workspaces | [TinyAGI/tinyclaw](https://github.com/TinyAGI/tinyclaw) |
 | **AlphaClaw** | TypeScript | OpenClaw ops management layer: Web panel + gateway management + self-healing watchdog + Git auto-backup | [chrysb/alphaclaw](https://github.com/chrysb/alphaclaw) |
-| **CoPaw** | Python | Made by Alibaba Qwen AgentScope team, native DingTalk integration, long-term memory (ReMe framework), supports local models | [agentscope-ai/CoPaw](https://github.com/agentscope-ai/CoPaw) |
-| **HiClaw** | Docker | Higress community multi-agent collaboration platform, Manager-Worker architecture, human in the loop, built-in Matrix server | [higress-group/hiclaw](https://github.com/higress-group/hiclaw) |
-| **GenericAgent** | Python | Minimalist autonomous Agent from Fudan A3 Lab, self-organizing/self-learning/self-evolving, can automatically install/uninstall complex systems like OpenClaw | [lsdefine/pc-agent-loop](https://github.com/lsdefine/pc-agent-loop) |
-| **ClawRouter** | TypeScript | Agent-native LLM intelligent routing, 41+ models with local zero-latency auto-routing, ECO/AUTO/PREMIUM tiers save up to 92% costs | [BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter) |
-| **nanobot** | Python | Made by HKUST HKUDS, only 1% the code size of OpenClaw, research-friendly, one-command pip install, supports 10+ IM channels | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) |
-| **ClawWork** | Python | Made by HKUST HKUDS, AI Coworker economic benchmark: 220 GDPVal tasks, 44 professions, $10 survival challenge, based on nanobot | [HKUDS/ClawWork](https://github.com/HKUDS/ClawWork) |
-| **WildClawBench** | Python | Made by Shanghai AI Lab InternLM, real user conversation-driven Agent capability benchmark, covering multi-turn tool calling and complex task evaluation | [InternLM/WildClawBench](https://github.com/InternLM/WildClawBench) |
-| **P2PClaw Benchmark** | Web | Online agent benchmark entry for directly trying the P2PClaw evaluation page | [Website](https://www.p2pclaw.com/app/benchmark) |
-| **MetaClaw** | Python | Online RL evolution layer, Agent self-learns and self-evolves from interactions, no GPU needed, one-click injection into OpenClaw | [aiming-lab/MetaClaw](https://github.com/aiming-lab/MetaClaw) |
 | **AutoResearchClaw** | Python | Made by aiming-lab, automated research workflow: literature search, experiment design, data analysis, paper writing, end-to-end AI research assistant | [aiming-lab/AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) |
-| **MiniClaw** | TypeScript | Minimalist OpenClaw alternative, run on Telegram directly using Claude Pro/ChatGPT Plus subscriptions, zero API cost | [htlin222/mini-claw](https://github.com/htlin222/mini-claw) |
 | **ChatClaw** | Go | Made by Zhima AI, 30MB package installs in one minute, built-in skill marketplace + knowledge base + memory + MCP + scheduled tasks, covers WhatsApp/Telegram/Slack/Discord/Gmail/DingTalk/WeCom/QQ/Feishu | [zhimaAi/ChatClaw](https://github.com/zhimaAi/ChatClaw) |
+| **ClawRouter** | TypeScript | Agent-native LLM intelligent routing, 41+ models with local zero-latency auto-routing, ECO/AUTO/PREMIUM tiers save up to 92% costs | [BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter) |
 | **ClawShield** | TS/Rust | AI Agent governance layer: Model-as-a-Judge for high-risk action auditing + real-time Chain-of-Thought monitoring + OHTTP privacy-preserving routing | [xinxin7/claw-shield](https://github.com/xinxin7/claw-shield) |
+| **ClawWork** | Python | Made by HKUST HKUDS, AI Coworker economic benchmark: 220 GDPVal tasks, 44 professions, $10 survival challenge, based on nanobot | [HKUDS/ClawWork](https://github.com/HKUDS/ClawWork) |
+| **CoPaw** | Python | Made by Alibaba Qwen AgentScope team, native DingTalk integration, long-term memory (ReMe framework), supports local models | [agentscope-ai/CoPaw](https://github.com/agentscope-ai/CoPaw) |
+| **GenericAgent** | Python | Minimalist autonomous Agent from Fudan A3 Lab, self-organizing/self-learning/self-evolving, can automatically install/uninstall complex systems like OpenClaw | [lsdefine/pc-agent-loop](https://github.com/lsdefine/pc-agent-loop) |
+| **HiClaw** | Docker | Higress community multi-agent collaboration platform, Manager-Worker architecture, human in the loop, built-in Matrix server | [higress-group/hiclaw](https://github.com/higress-group/hiclaw) |
+| **MetaClaw** | Python | Online RL evolution layer, Agent self-learns and self-evolves from interactions, no GPU needed, one-click injection into OpenClaw | [aiming-lab/MetaClaw](https://github.com/aiming-lab/MetaClaw) |
+| **MiniClaw** | TypeScript | Minimalist OpenClaw alternative, run on Telegram directly using Claude Pro/ChatGPT Plus subscriptions, zero API cost | [htlin222/mini-claw](https://github.com/htlin222/mini-claw) |
+| **nanobot** | Python | Made by HKUST HKUDS, only 1% the code size of OpenClaw, research-friendly, one-command pip install, supports 10+ IM channels | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) |
+| **NanoClaw** | TypeScript | Container sandbox isolation, minimalist design, easy to understand and extend | [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) |
+| **P2PClaw Benchmark** | Web | Online agent benchmark entry for directly trying the P2PClaw evaluation page | [Website](https://www.p2pclaw.com/app/benchmark) |
+| **RosClaw** | ROS | Claw-like project focused on the ROS ecosystem | [Website](https://www.rosclaw.io) |
+| **TinyClaw** | Shell/TS | Multi-agent multi-team, chained execution + fan-out, isolated workspaces | [TinyAGI/tinyclaw](https://github.com/TinyAGI/tinyclaw) |
+| **WildClawBench** | Python | Made by Shanghai AI Lab InternLM, real user conversation-driven Agent capability benchmark, covering multi-turn tool calling and complex task evaluation | [InternLM/WildClawBench](https://github.com/InternLM/WildClawBench) |
+| **ZeroClaw** | Rust | Trait-driven, zero-overhead architecture, fully replaceable core, cross-environment deployment | [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) |
 
 ### 7.3 Open-Source Solutions Comprehensive Comparison
 
