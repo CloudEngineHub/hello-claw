@@ -213,7 +213,7 @@ The following projects each have a distinct focus — minimalist design, securit
 | **MiniClaw** | TypeScript | Minimalist OpenClaw alternative, run on Telegram directly using Claude Pro/ChatGPT Plus subscriptions, zero API cost | [htlin222/mini-claw](https://github.com/htlin222/mini-claw) |
 | **ChatClaw** | Go | Made by Zhima AI, 30MB package installs in one minute, built-in skill marketplace + knowledge base + memory + MCP + scheduled tasks, covers WhatsApp/Telegram/Slack/Discord/Gmail/DingTalk/WeCom/QQ/Feishu | [zhimaAi/ChatClaw](https://github.com/zhimaAi/ChatClaw) |
 | **ClawShield** | TS/Rust | AI Agent governance layer: Model-as-a-Judge for high-risk action auditing + real-time Chain-of-Thought monitoring + OHTTP privacy-preserving routing | [xinxin7/claw-shield](https://github.com/xinxin7/claw-shield) |
-| **rosclaw** | ROS | Claw-like project focused on the ROS ecosystem | [Official Site](https://www.rosclaw.io) |
+| **RosClaw** | ROS | Claw-like project focused on the ROS ecosystem | [Official Site](https://www.rosclaw.io) |
 
 ### 7.3 Open-Source Solutions Comprehensive Comparison
 

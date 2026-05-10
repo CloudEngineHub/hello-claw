@@ -213,7 +213,7 @@ OpenClaw 的爆发催生了一个庞大的"龙虾生态"——从开源框架到
 | **MiniClaw** | TypeScript | 极简 OpenClaw 替代，直接用 Claude Pro/ChatGPT Plus 订阅跑 Telegram，零 API 成本 | [htlin222/mini-claw](https://github.com/htlin222/mini-claw) |
 | **ChatClaw** | Go | 智麻出品，30MB 安装包一分钟装好，内置技能市场 + 知识库 + 记忆 + MCP + 定时任务，覆盖 WhatsApp/Telegram/Slack/Discord/Gmail/钉钉/企微/QQ/飞书 | [zhimaAi/ChatClaw](https://github.com/zhimaAi/ChatClaw) |
 | **ClawShield** | TS/Rust | AI Agent 治理层：Model-as-a-Judge 审计高危操作 + 实时推理链监控 + OHTTP 隐私路由 | [xinxin7/claw-shield](https://github.com/xinxin7/claw-shield) |
-| **rosclaw** | ROS | 面向机器人 ROS 生态的类 Claw 项目 | [官网](https://www.rosclaw.io) |
+| **RosClaw** | ROS | 面向机器人 ROS 生态的类 Claw 项目 | [官网](https://www.rosclaw.io) |
 
 ### 7.3 开源方案综合对比
 
