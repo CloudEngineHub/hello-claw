@@ -210,7 +210,7 @@ The following projects each have a distinct focus — minimalist design, securit
 | **nanobot** | Python | Made by HKUST HKUDS, only 1% the code size of OpenClaw, research-friendly, one-command pip install, supports 10+ IM channels | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) |
 | **NanoClaw** | TypeScript | Container sandbox isolation, minimalist design, easy to understand and extend | [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) |
 | **P2PClaw Benchmark** | Web | Online agent benchmark entry for directly trying the P2PClaw evaluation page | [Website](https://www.p2pclaw.com/app/benchmark) |
-| **RosClaw** | ROS | Claw-like project focused on the ROS ecosystem | [Official Site](https://www.rosclaw.io) |
+| **RosClaw** | ROS | Claw-like project focused on the ROS ecosystem | [Website](https://www.rosclaw.io) |
 | **TinyClaw** | Shell/TS | Multi-agent multi-team, chained execution + fan-out, isolated workspaces | [TinyAGI/tinyclaw](https://github.com/TinyAGI/tinyclaw) |
 | **WildClawBench** | Python | Made by Shanghai AI Lab InternLM, real user conversation-driven Agent capability benchmark, covering multi-turn tool calling and complex task evaluation | [InternLM/WildClawBench](https://github.com/InternLM/WildClawBench) |
 | **ZeroClaw** | Rust | Trait-driven, zero-overhead architecture, fully replaceable core, cross-environment deployment | [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) |
