@@ -256,4 +256,4 @@ https://datawhalechina.github.io/hello-claw
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=datawhalechina/hello-claw&type=Date)](https://star-history.com/?type=date&legend=top-left&repos=datawhalechina%2Fhello-claw)
+[![Star History Chart](https://star-history.dera.page/svg?repos=datawhalechina/hello-claw&type=Date)](https://star-history.dera.page/#datawhalechina/hello-claw&type=date&legend=top-left)
